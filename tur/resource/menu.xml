@@ -1,0 +1,164 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<menu>
+	<menu1 name="CİLT BAKIMI">
+		<menu2 name="TEMİZLEME-CANLANDIRMA">
+			<menu3 swf="resource/swf/sofiten.swf"  xmlname="resource/xml/cb/tc/sofiten.xml">SOFITEN</menu3>
+			<menu3 swf="resource/swf/claril.swf"  xmlname="resource/xml/cb/tc/claril.xml">CLARIL</menu3>
+			<menu3 swf="resource/swf/mild.swf"  xmlname="resource/xml/cb/tc/tm.xml">TONIC MILD</menu3>
+			<menu3 swf="resource/swf/tonic_fresh.swf"  xmlname="resource/xml/cb/tc/tf.xml">TONIC FRESH</menu3>
+			<menu3 swf="resource/swf/su1.swf"  xmlname="resource/xml/cb/tc/wgntos.xml">WASH GEL (normal to oily skin)</menu3>
+			<menu3 swf="resource/swf/su2.swf"  xmlname="resource/xml/cb/tc/wgntds.xml">WASH GEL (normal to dry skIn)</menu3>
+			<menu3 swf="none"  xmlname="resource/xml/cb/tc/hf.xml">HYDRA-foam</menu3>
+			<menu3 swf="none"  xmlname="resource/xml/cb/tc/eg.xml">EFFICAGE GEL</menu3>
+			<menu3 swf="none"  xmlname="resource/xml/cb/tc/el.xml">EFFICAGE LOTION</menu3>
+			<menu3 swf="none"  xmlname="resource/xml/cb/tc/edp.xml">EFFICAGE DOUBLE PHASE</menu3>
+			<menu3 swf="none"  xmlname="resource/xml/cb/tc/gfp.xml">GENTLE FACE PEELING</menu3>
+			<menu3 swf="none"  xmlname="resource/xml/cb/tc/mb.xml">MASK BEAUTENOVA</menu3>
+		</menu2>
+		<menu2 name="KORUMA-NEMLENDİRME">
+			<menu3 swf="none"  xmlname="resource/xml/cb/kn/suplex.xml">SUPLEX</menu3>
+			<menu3 swf="none"  xmlname="resource/xml/cb/kn/city.xml">CITY CREAM</menu3>
+			<menu3 swf="none"  xmlname="resource/xml/cb/kn/aqua.xml">AQUA MOIST</menu3>
+			<menu3 swf="none"  xmlname="resource/xml/cb/kn/handnail.xml">HAND & NAIL</menu3>
+		</menu2>
+		<menu2 name="DENGELEME-BESLEME">
+			<menu3 swf="none"  xmlname="resource/xml/cb/db/beautenova.xml">GEL BEAUTENOVA</menu3>
+			<menu3 swf="none"  xmlname="resource/xml/cb/db/nutrima.xml">NUTRIMA</menu3>
+			<menu3 swf="none"  xmlname="resource/xml/cb/db/night.xml">NIGHT TIME NOURISHING</menu3>
+			<menu3 swf="none"  xmlname="resource/xml/cb/db/contourplus.xml">GEL CONTOUR PLUS</menu3>
+			<menu3 swf="none"  xmlname="resource/xml/cb/db/renovacontour.xml">RENOVA CONTOUR</menu3>
+		</menu2>
+		<menu2 name="ÖZEL BAKIM">
+			<menu3 swf="none"  xmlname="resource/xml/cb/ob/spot.xml">SPOT-zap</menu3>
+			<menu3 swf="none"  xmlname="resource/xml/cb/ob/aha.xml">AHA TONIC</menu3>
+			<menu3 swf="none"  xmlname="resource/xml/cb/ob/innofade.xml">INNO-fade LOTION & CREAM</menu3>
+			<menu3 swf="none"  xmlname="resource/xml/cb/ob/collagen.xml">COLLAGEN BOOSTING LIPCARE</menu3>
+			<menu3 swf="none"  xmlname="resource/xml/cb/ob/beauty.xml">BEAUTY MINUTE</menu3>
+			<menu3 swf="none"  xmlname="resource/xml/cb/ob/mask.xml">MASK HYDRO-VITAL</menu3>
+		</menu2>
+		<menu2 name="YAŞLANMAYA KARŞI">
+			<menu3 swf="none"  xmlname="resource/xml/cb/yk/lipogard.xml">LIPOGARD</menu3>
+			<menu3 swf="none"  xmlname="resource/xml/cb/yk/brelax.xml">B-relax</menu3>
+			<menu3 swf="none"  xmlname="resource/xml/cb/yk/renova.xml">RENOVA</menu3>
+			<menu3 swf="none"  xmlname="resource/xml/cb/yk/matrix.xml">MATRIX-lIft</menu3>
+		</menu2>
+		</menu1>
+		<menu1 name="ERKEK SERİSİ">
+		<menu2 name="PRİZMA">
+			<menu3 swf="none"  xmlname="resource/xml/es/p/purifying.xml">PURIFYING CLEANSING GEL</menu3>
+			<menu3 swf="none"  xmlname="resource/xml/es/p/aftershave.xml">AFTER-SHAVE BALM</menu3>
+			<menu3 swf="none"  xmlname="resource/xml/es/p/revitalizing.xml">REVITALIZING CARE-CREAM</menu3>
+			<menu3 swf="none"  xmlname="resource/xml/es/p/eye.xml">EYE CONTOUR GEL-CREAM</menu3>
+		</menu2>
+	</menu1>
+	<menu1 name="PARFÜM">
+		<menu2 name="KADIN İÇİN">
+			<menu3 swf="none"  xmlname="resource/xml/p/ki/nuance.xml">NUANCE</menu3>
+			<menu3 swf="none"  xmlname="resource/xml/p/ki/vanity.xml">VANITY</menu3>
+			<menu3 swf="none"  xmlname="resource/xml/p/ki/tiama.xml">TIAMA</menu3>
+		</menu2>
+		<menu2 name="ERKEK İÇİN">
+			<menu3 swf="none"  xmlname="resource/xml/p/ei/prizma.xml">PRIZMA SPORT</menu3>
+			<menu3 swf="none"  xmlname="resource/xml/p/ei/gordion.xml">GORDION</menu3>
+		</menu2>
+
+	</menu1>
+	<menu1 name="MAKYAJ">
+		<menu2 name="YÜZ">
+			<menu3 swf="none"  xmlname="resource/xml/m/y/innoceal.xml">INNOCEAL - hata örtücü</menu3>
+			<menu3 swf="none"  xmlname="resource/xml/m/y/innomatnem.xml">INNOMAT - (moisturizing foundatIon) - nemlendirici fondoten</menu3>
+			<menu3 swf="none"  xmlname="resource/xml/m/y/innomatyag.xml">INNOMAT - (oil free foundation) - yağsız fondoten</menu3>
+			<menu3 swf="none"  xmlname="resource/xml/m/y/innofinish.xml">INNOFINISH - ıslak kuru kullanıma uygun pudra</menu3>
+			<menu3 swf="none"  xmlname="resource/xml/m/y/innoblush.xml">INNOBLUSH - allık</menu3>
+			<menu3 swf="none"  xmlname="resource/xml/m/y/more_than.xml">MORE THAN POWDER</menu3>
+			<menu3 swf="none"  xmlname="resource/xml/m/y/transparent_powder.xml">TRANSPARENT POWDER</menu3>
+			<menu3 swf="none"  xmlname="resource/xml/m/y/melange powder.xml">MELANGE SUN POWDER</menu3>
+			<menu3 swf="none"  xmlname="resource/xml/m/y/pearly_powder.xml">PEARLY SUN POWDER</menu3>
+			<menu3 swf="none"  xmlname="resource/xml/m/y/pearly_melange.xml">PEARLY MELANGE</menu3>
+			<menu3 swf="none"  xmlname="resource/xml/m/y/terracota.xml">TERRACOTTA</menu3>
+			<menu3 swf="none"  xmlname="resource/xml/m/y/terracota_blusher.xml">TERRACOTTA BLUSHER</menu3>
+			<menu3 swf="resource/swf/mozaic.swf"  xmlname="resource/xml/m/y/mozaic.xml">MOZAIC POWDER</menu3>			
+			
+		</menu2>
+		<menu2 name="GÖZ">
+			<menu3 swf="none"  xmlname="resource/xml/m/g/innocilsdogal.xml">INNOCILS 
+(mascara performance extra volume) </menu3>
+			<menu3 swf="none"  xmlname="resource/xml/m/g/innocilsultra.xml">INNOCILS
+(highly volumizing mascara) </menu3>
+			<menu3 swf="none"  xmlname="resource/xml/m/g/fatal.xml">INNOCILS
+(mascara fatal attraction)</menu3>
+			<menu3 swf="none"  xmlname="resource/xml/m/g/more than.xml">INNOCILS
+(mascara more than waterproof)</menu3>			
+			<menu3 swf="none"  xmlname="resource/xml/m/g/spar.xml">LIQUID DIPLINER</menu3>
+			<menu3 swf="none"  xmlname="resource/xml/m/g/cooked.xml">COOKED EYESHADOW - terracotta far</menu3>
+			<menu3 swf="none"  xmlname="resource/xml/m/g/eyeliner.xml">LONG LASTING EYELINER PENCIL</menu3>
+			<menu3 swf="none"  xmlname="resource/xml/m/g/automaticw.xml">UNISLIM-AUTOMATIC EYE PENCIL waterproof</menu3>
+			<menu3 swf="none"  xmlname="resource/xml/m/g/automaticl.xml">UNISLIM-AUTOMATIC EYE PENCIL longlastin& mat finish</menu3>
+			
+						
+		</menu2>
+	
+		<menu2 name="DUDAK">
+			<menu3 swf="none"  xmlname="resource/xml/m/d/innolips.xml">INNOLIPS - ışıltılı, parlak ruj</menu3>
+			<menu3 swf="none"  xmlname="resource/xml/m/d/innoshine.xml">INNOSHINE - yoğun ışıltılı sıvı ruj</menu3>
+			<menu3 swf="none"  xmlname="resource/xml/m/d/lipliner.xml">LONG LASTING LIPLINER PENCIL</menu3>
+		</menu2>
+	</menu1>
+
+	<menu1 name="GÜNEŞ ÜRÜNLERİ">
+		<menu2 name="GÜNEŞTEN KORUNMA">
+			<menu3 swf="none"  xmlname="resource/xml/gu/gk/lotion15.xml">SUN CARE LOTION - vücut losyonu SPF 15 koruma faktörlu</menu3>
+			<menu3 swf="none"  xmlname="resource/xml/gu/gk/lotion30.xml">SUN CARE LOTION - vücut losyonu SPF 30 koruma faktörlu</menu3>
+			<menu3 swf="none"  xmlname="resource/xml/gu/gk/lotion50.xml">SUN CARE LOTION - vücut losyonu SPF 50 koruma faktörlu</menu3>
+			<menu3 swf="none"  xmlname="resource/xml/gu/gk/kids30.xml">SUN CARE KIDS LOTION - çocuk IcIn 30 koruma faktörlu</menu3>
+			<menu3 swf="none"  xmlname="resource/xml/gu/gk/kids50.xml">SUN CARE KIDS LOTION - çocuk IcIn 50 koruma faktörlu</menu3>
+			<menu3 swf="none"  xmlname="resource/xml/gu/gk/oil4.xml">SUN OIL - güneş yağı SPF 4 koruma faktörlu</menu3>
+			<menu3 swf="none"  xmlname="resource/xml/gu/gk/oil8.xml">SUN OIL - güneş yağı SPF 8 koruma faktörlu</menu3>
+			<menu3 swf="none"  xmlname="resource/xml/gu/gk/face25.xml">FACE CREAM - yüz kremi SPF 25 koruma faktörlu</menu3>
+			<menu3 swf="none"  xmlname="resource/xml/gu/gk/face50.xml">FACE CREAM - yüz kremi SPF 50 koruma faktörlu</menu3>
+		</menu2>
+
+		<menu2 name="GÜNEŞ SONRASI BAKIM">
+			<menu3 swf="none"  xmlname="resource/xml/gu/gsb/face.xml">Anti-aging After Sun Face Cream</menu3>
+			<menu3 swf="none"  xmlname="resource/xml/gu/gsb/lotion.xml">Nourishing, Cooling After Sun Body Lotion</menu3>
+		</menu2>
+	</menu1>
+	<menu1 name="DERMOCARE">
+		<menu2 name="YÜZ KREMİ">
+			<menu3 swf="resource/swf/nar.swf"  xmlname="resource/xml/d/y/n.xml">NAR ÖZLÜ YÜZ KREMİ</menu3>
+			<menu3 swf="resource/swf/kayisi.swf"  xmlname="resource/xml/d/y/k.xml">KAYISI ÖZLÜ YÜZ KREMİ</menu3>
+			<menu3 swf="resource/swf/zeytin.swf"  xmlname="resource/xml/d/y/z.xml">ZEYTİN ÖZLÜ YÜZ KREMİ</menu3>
+		</menu2>
+		<menu2 name="VÜCUT LOSYONU">
+			<menu3 swf="resource/swf/nar.swf"  xmlname="resource/xml/d/v/n.xml">NAR ÖZLÜ VÜCUT LOSYONU</menu3>
+			<menu3 swf="resource/swf/kayisi.swf"  xmlname="resource/xml/d/v/k.xml">KAYISI ÖZLÜ VÜCUT LOSYONU</menu3>
+			<menu3 swf="resource/swf/zeytin.swf"  xmlname="resource/xml/d/v/z.xml">ZEYTİN ÖZLÜ VÜCUT LOSYONU</menu3>
+		</menu2>
+		<menu2 name="EL BAKIMI">
+			<menu3 swf="resource/swf/dtoplu.swf"  xmlname="resource/xml/d/e/elpee.xml">EL PEELING'I</menu3>
+			<menu3 swf="resource/swf/dtoplu.swf"  xmlname="resource/xml/d/e/elkrem.xml">EL KREMİ</menu3>
+		</menu2>
+		<menu2 name="AYAK BAKIMI">
+			<menu3 swf="resource/swf/dtoplu.swf"  xmlname="resource/xml/d/a/ayakkrem.xml">AYAK KREMİ</menu3>
+			<menu3 swf="resource/swf/dtoplu.swf"  xmlname="resource/xml/d/a/ayakpee.xml">AYAK PEELING'I</menu3>
+		</menu2>
+		<menu2 name="DEO-MENDİL">
+			<menu3 swf="resource/swf/dlogo.swf"  xmlname="resource/xml/d/m/deo.xml">DEO-MENDİL</menu3>
+		</menu2>		
+				
+		<menu2 name="DERMOCARE SUN">
+			<menu3 swf="resource/swf/havuc.swf"  xmlname="resource/xml/d/g/havuc.xml">HAVUÇ YAĞI</menu3>
+			<menu3 swf="resource/swf/kakao.swf"  xmlname="resource/xml/d/g/kakao.xml">KAKAO YAĞI</menu3>
+		</menu2>		
+		<menu2 name="DERMOCARE  TEEN">
+			<menu3 swf="none"  xmlname="resource/xml/d/teen/wash_gel.xml"> SEBUM-KONTROL YÜZ YIKAMA JELİ</menu3>
+			<menu3 swf="none"  xmlname="resource/xml/d/teen/tonic.xml"> SEBUM-KONTROL TONİK</menu3>
+			<menu3 swf="none"  xmlname="resource/xml/d/teen/cream.xml"> SEBUM-KONTROL BAKIM KREMİ</menu3>
+		</menu2>
+		<menu2 name="TÜY AZALTICI YÜZ VE VÜCUT KREMİ">
+			<menu3 swf="none"  xmlname="resource/xml/d/t/tuy.xml"> TÜY AZALTICI YÜZ VE VÜCUT KREMİ</menu3>
+			
+		</menu2>
+		
+	</menu1>
+</menu>

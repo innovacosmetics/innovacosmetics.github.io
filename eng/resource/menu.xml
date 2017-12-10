@@ -1,0 +1,162 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<menu>
+	<menu1 name="SKIN CARE">
+		<menu2 name="CLEANSING - TONIFYING">
+			<menu3 swf="resource/swf/sofiten.swf"  xmlname="resource/xml/cb/tc/sofiten.xml">SOFITEN</menu3>
+			<menu3 swf="resource/swf/claril.swf"  xmlname="resource/xml/cb/tc/claril.xml">CLARIL</menu3>
+			<menu3 swf="resource/swf/mild.swf"  xmlname="resource/xml/cb/tc/tm.xml">TONIC MILD</menu3>
+			<menu3 swf="resource/swf/tonic_fresh.swf"  xmlname="resource/xml/cb/tc/tf.xml">TONIC FRESH</menu3>
+			<menu3 swf="resource/swf/su1.swf"  xmlname="resource/xml/cb/tc/wgntos.xml">WASH GEL (normal to oily skin)</menu3>
+			<menu3 swf="resource/swf/su2.swf"  xmlname="resource/xml/cb/tc/wgntds.xml">WASH GEL (normal to dry skIn)</menu3>
+			<menu3 swf="none"  xmlname="resource/xml/cb/tc/hf.xml">HYDRA-foam</menu3>
+			<menu3 swf="none"  xmlname="resource/xml/cb/tc/eg.xml">EFFICAGE GEL</menu3>
+			<menu3 swf="none"  xmlname="resource/xml/cb/tc/el.xml">EFFICAGE LOTION</menu3>
+			<menu3 swf="none"  xmlname="resource/xml/cb/tc/edp.xml">EFFICAGE DOUBLE PHASE</menu3>
+			<menu3 swf="none"  xmlname="resource/xml/cb/tc/gfp.xml">GENTLE FACE PEELING</menu3>
+			<menu3 swf="none"  xmlname="resource/xml/cb/tc/mb.xml">MASK BEAUTENOVA</menu3>
+		</menu2>
+		<menu2 name="PROTECTING-HYDRATING">
+			<menu3 swf="none"  xmlname="resource/xml/cb/kn/suplex.xml">SUPLEX</menu3>
+			<menu3 swf="none"  xmlname="resource/xml/cb/kn/city.xml">CITY CREAM</menu3>
+			<menu3 swf="none"  xmlname="resource/xml/cb/kn/aqua.xml">AQUA MOIST</menu3>
+			<menu3 swf="none"  xmlname="resource/xml/cb/kn/handnail.xml">HAND & NAIL</menu3>
+		</menu2>
+		<menu2 name="BALANCING">
+			<menu3 swf="none"  xmlname="resource/xml/cb/db/beautenova.xml">GEL BEAUTENOVA</menu3>
+			<menu3 swf="none"  xmlname="resource/xml/cb/db/nutrima.xml">NUTRIMA</menu3>
+			<menu3 swf="none"  xmlname="resource/xml/cb/db/night.xml">NIGHT TIME NOURISHING</menu3>
+			<menu3 swf="none"  xmlname="resource/xml/cb/db/contourplus.xml">GEL CONTOUR PLUS</menu3>
+			<menu3 swf="none"  xmlname="resource/xml/cb/db/renovacontour.xml">RENOVA CONTOUR</menu3>
+		</menu2>
+		<menu2 name="SPECIAL CARE">
+			<menu3 swf="none"  xmlname="resource/xml/cb/ob/spot.xml">SPOT-zap</menu3>
+			<menu3 swf="none"  xmlname="resource/xml/cb/ob/aha.xml">AHA TONIC</menu3>
+			<menu3 swf="none"  xmlname="resource/xml/cb/ob/innofade.xml">INNO-fade LOTION & CREAM</menu3>
+			<menu3 swf="none"  xmlname="resource/xml/cb/ob/collagen.xml">COLLAGEN BOOSTING LIPCARE</menu3>
+			<menu3 swf="none"  xmlname="resource/xml/cb/ob/beauty.xml">BEAUTY MINUTE</menu3>
+			<menu3 swf="none"  xmlname="resource/xml/cb/ob/mask.xml">MASK HYDRO-VITAL</menu3>
+		</menu2>
+		<menu2 name="ANTI-AGING">
+			<menu3 swf="none"  xmlname="resource/xml/cb/yk/lipogard.xml">LIPOGARD</menu3>
+			<menu3 swf="none"  xmlname="resource/xml/cb/yk/brelax.xml">B-relax</menu3>
+			<menu3 swf="none"  xmlname="resource/xml/cb/yk/renova.xml">RENOVA</menu3>
+			<menu3 swf="none"  xmlname="resource/xml/cb/yk/matrix.xml">MATRIX-lIft</menu3>
+		</menu2>
+	</menu1>
+	<menu1 name="MENS LINE">
+		<menu2 name="PRIZMA">
+			<menu3 swf="none"  xmlname="resource/xml/es/p/purifying.xml">PURIFYING CLEANSING GEL</menu3>
+			<menu3 swf="none"  xmlname="resource/xml/es/p/aftershave.xml">AFTER-SHAVE BALM</menu3>
+			<menu3 swf="none"  xmlname="resource/xml/es/p/revitalizing.xml">REVITALIZING CARE-CREAM</menu3>
+			<menu3 swf="none"  xmlname="resource/xml/es/p/eye.xml">EYE CONTOUR GEL-CREAM</menu3>
+		</menu2>
+	</menu1>
+	<menu1 name="FRAGRANCE">
+		<menu2 name="FOR WOMEN">
+			<menu3 swf="none"  xmlname="resource/xml/p/ki/nuance.xml">NUANCE</menu3>
+			<menu3 swf="none"  xmlname="resource/xml/p/ki/vanity.xml">VANITY</menu3>
+			<menu3 swf="none"  xmlname="resource/xml/p/ki/tiama.xml">TIAMA</menu3>
+		</menu2>
+		<menu2 name="FOR MEN">
+			<menu3 swf="none"  xmlname="resource/xml/p/ei/prizma.xml">PRIZMA SPORT</menu3>
+			<menu3 swf="none"  xmlname="resource/xml/p/ei/gordion.xml">GORDION</menu3>
+		</menu2>
+	</menu1>
+	<menu1 name="MAKE-UP">
+		<menu2 name="FACE">
+			<menu3 swf="none"  xmlname="resource/xml/m/y/innoceal.xml">INNOCEAL - concealer</menu3>
+			<menu3 swf="none"  xmlname="resource/xml/m/y/innomatnem.xml">INNOMAT - moisturizing foundation</menu3>
+			<menu3 swf="none"  xmlname="resource/xml/m/y/innomatyag.xml">INNOMAT - oil free foundation</menu3>
+			<menu3 swf="none"  xmlname="resource/xml/m/y/innofinish.xml">INNOFINISH - wet & dry compact powder</menu3>
+			<menu3 swf="none"  xmlname="resource/xml/m/y/innoblush.xml">INNOBLUSH - compact blusher</menu3>
+			<menu3 swf="none"  xmlname="resource/xml/m/y/more_than.xml">MORE THAN POWDER</menu3>
+			<menu3 swf="none"  xmlname="resource/xml/m/y/transparent_powder.xml">TRANSPARENT POWDER</menu3>
+			<menu3 swf="none"  xmlname="resource/xml/m/y/melange powder.xml">MELANGE SUN POWDER</menu3>
+			<menu3 swf="none"  xmlname="resource/xml/m/y/pearly_powder.xml">PEARLY SUN POWDER</menu3>
+			<menu3 swf="none"  xmlname="resource/xml/m/y/pearly_melange.xml">PEARLY MELANGE</menu3>
+			<menu3 swf="none"  xmlname="resource/xml/m/y/terracota.xml">TERRACOTTA</menu3>
+			<menu3 swf="none"  xmlname="resource/xml/m/y/terracota_blusher.xml">TERRACOTTA BLUSHER</menu3>
+			<menu3 swf="resource/swf/mozaic.swf"  xmlname="resource/xml/m/y/mozaic.xml">MOZAIC POWDER</menu3>			
+			
+		</menu2>
+		<menu2 name="EYES ">
+			<menu3 swf="none"  xmlname="resource/xml/m/g/innocilsdogal.xml">INNOCILS
+(mascara performance extra volume)</menu3>
+			<menu3 swf="none"  xmlname="resource/xml/m/g/innocilsultra.xml">INNOCILS
+(highly volumizIng mascara)</menu3>
+			<menu3 swf="none"  xmlname="resource/xml/m/g/fatal.xml">INNOCILS
+(fatal attraction mascara)</menu3>
+			<menu3 swf="none"  xmlname="resource/xml/m/g/more_than.xml">INNOCILS
+(more than waterproof mascara)</menu3>		
+			<menu3 swf="none"  xmlname="resource/xml/m/g/spar.xml">LIQUID DIPLINER</menu3>
+			<menu3 swf="none"  xmlname="resource/xml/m/g/cooked.xml">COOKED EYESHADOW</menu3>
+			<menu3 swf="none"  xmlname="resource/xml/m/g/eyeliner.xml">LONG LANSTING EYELINER PENCIL</menu3>
+			<menu3 swf="none"  xmlname="resource/xml/m/g/automaticw.xml">UNISLIM-AUTOMATIC EYE PENCIL waterproof</menu3>
+			<menu3 swf="none"  xmlname="resource/xml/m/g/automaticl.xml">UNISLIM-AUTOMATIC EYE PENCIL longlastin&mat finish</menu3>
+			
+		</menu2>
+	
+		<menu2 name="LIPS">
+			<menu3 swf="none"  xmlname="resource/xml/m/d/innolips.xml">INNOLIPS - glossy lipstick</menu3>
+			<menu3 swf="none"  xmlname="resource/xml/m/d/innoshine.xml">INNOSHINE - shiny lipgloss</menu3>
+			<menu3 swf="none"  xmlname="resource/xml/m/d/lipliner.xml">LONG LASTING LIPLINER PENCIL</menu3>
+		</menu2>
+	</menu1>
+
+	<menu1 name="SUN CARE">
+		<menu2 name="SUN PROTECTION">
+			<menu3 swf="none"  xmlname="resource/xml/gu/gk/lotion15.xml">SUN CARE LOTION 15</menu3>
+			<menu3 swf="none"  xmlname="resource/xml/gu/gk/lotion30.xml">SUN CARE LOTION 30</menu3>
+			<menu3 swf="none"  xmlname="resource/xml/gu/gk/lotion50.xml">SUN CARE LOTION 50</menu3>
+			<menu3 swf="none"  xmlname="resource/xml/gu/gk/kids30.xml">SUN CARE KIDS LOTION 30</menu3>
+			<menu3 swf="none"  xmlname="resource/xml/gu/gk/kids50.xml">SUN CARE KIDS LOTION 50</menu3>
+			<menu3 swf="none"  xmlname="resource/xml/gu/gk/oil4.xml">SUN OIL SPF 4</menu3>
+			<menu3 swf="none"  xmlname="resource/xml/gu/gk/oil8.xml">SUN OIL SPF 8</menu3>
+			<menu3 swf="none"  xmlname="resource/xml/gu/gk/face25.xml">FACE CREAM SPF 25</menu3>
+			<menu3 swf="none"  xmlname="resource/xml/gu/gk/face50.xml">FACE CREAM SPF 50</menu3>
+		</menu2>
+
+		<menu2 name="AFTER SUN">
+			<menu3 swf="none"  xmlname="resource/xml/gu/gsb/face.xml">Anti-aging After Sun Face Cream</menu3>
+			<menu3 swf="none"  xmlname="resource/xml/gu/gsb/lotion.xml">Nourishing, Cooling After Sun Body Lotion</menu3>
+		</menu2>
+	</menu1>
+	<menu1 name="DERMOCARE">
+		<menu2 name="FACE CREAM">
+			<menu3 swf="resource/swf/nar.swf"  xmlname="resource/xml/d/y/n.xml">POMEGRANADE FACE CREAM</menu3>
+			<menu3 swf="resource/swf/kayisi.swf"  xmlname="resource/xml/d/y/k.xml">APRICOT FACE CREAM</menu3>
+			<menu3 swf="resource/swf/zeytin.swf"  xmlname="resource/xml/d/y/z.xml">OLIVE FACE CREAM</menu3>
+		</menu2>
+		<menu2 name="BODY LOTION">
+			<menu3 swf="resource/swf/nar.swf"  xmlname="resource/xml/d/v/n.xml">POMEGRANADE BODY LOTION</menu3>
+			<menu3 swf="resource/swf/kayisi.swf"  xmlname="resource/xml/d/v/k.xml">APRICOT BODY LOTION</menu3>
+			<menu3 swf="resource/swf/zeytin.swf"  xmlname="resource/xml/d/v/z.xml">OLIVE BODY LOTION</menu3>
+		</menu2>
+		<menu2 name="HAND CARE">
+			<menu3 swf="resource/swf/dtoplu.swf"  xmlname="resource/xml/d/e/elpee.xml">HAND PEELING</menu3>
+			<menu3 swf="resource/swf/dtoplu.swf"  xmlname="resource/xml/d/e/elkrem.xml">HAND CREAM</menu3>
+		</menu2>
+		<menu2 name="FOOT CARE">
+			<menu3 swf="resource/swf/dtoplu.swf"  xmlname="resource/xml/d/a/ayakkrem.xml">FOOT CREAM</menu3>
+			<menu3 swf="resource/swf/dtoplu.swf"  xmlname="resource/xml/d/a/ayakpee.xml">FOOT PEELING</menu3>
+		</menu2>
+		<menu2 name="DEOWIPE">
+			<menu3 swf="resource/swf/dlogo.swf"  xmlname="resource/xml/d/m/deo.xml">DEOWIPE</menu3>
+		</menu2>		
+		<menu2 name="DERMOCARE SUN">
+			<menu3 swf="resource/swf/havuc.swf"  xmlname="resource/xml/d/g/havuc.xml">SUN CARROT BUTTER</menu3>
+			<menu3 swf="resource/swf/kakao.swf"  xmlname="resource/xml/d/g/kakao.xml">SUN COCOA BUTTER</menu3>
+		</menu2>		
+		<menu2 name="DERMOCARE  TEEN">		
+			<menu3 swf="none"  xmlname="resource/xml/d/teen/wash_gel.xml">SEBUM-CONTROL 
+			WASH GEL</menu3>
+			<menu3 swf="none"  xmlname="resource/xml/d/teen/tonic.xml">SEBUM-CONTROL 
+			TONIC</menu3>
+			<menu3 swf="none"  xmlname="resource/xml/d/teen/cream.xml">SEBUM-CONTROL 
+			CARE CREAM</menu3>
+		</menu2>
+		<menu2 name="HAIR REDUCING">
+			<menu3 swf="none"  xmlname="resource/xml/d/t/hairreducing.xml">HAIR REDUCING</menu3>
+		</menu2>	
+	</menu1>
+</menu>

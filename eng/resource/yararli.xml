@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<menu1>
+	<content>
+		<resim>resource/img/ybilgiler/1.jpg</resim>
+		<pdf>resource/xml/ybilgiler/01.txt</pdf>
+		<baslik>Kırışık oluşumu önlemek</baslik>
+	</content>
+	<content>
+		<resim>resource/img/ybilgiler/2.jpg</resim>
+		<pdf>resource/xml/ybilgiler/02.txt</pdf>
+		<baslik>Cildiniz Kaç Yaşında?</baslik>
+	</content>
+	<content>
+		<resim>resource/img/ybilgiler/3.jpg</resim>
+		<pdf>resource/xml/ybilgiler/03.txt</pdf>
+		<baslik>Erkeklerde Cilt Bakımı</baslik>
+	
+	</content>
+</menu1>

@@ -1,0 +1,850 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<menu1>
+<content>
+<firma>Façeta.</firma>
+<adres>Cemal Paşa mah.Toros cad. No:33/A</adres>
+<ilce>-</ilce>
+<il>Adana</il>
+<tel>0322 4574691</tel>
+</content>
+<content>
+<firma>Girgin Parf. İtr.</firma>
+<adres>Çark Cad. Kundakçıoğlu Pasajı No:38</adres>
+<ilce>-</ilce>
+<il>Adapazarı</il>
+<tel>-</tel>
+</content>
+<content>
+<firma>Milenyum Kozmetik Dünyası</firma>
+<adres>Sıratut mah. Yunus Emre cad. No:31/B</adres>
+<ilce>-</ilce>
+<il>Adıyaman</il>
+<tel>0416 2147208</tel>
+</content>
+<content>
+<firma>May Kozm.</firma>
+<adres>Dere mah. Bedestan sok No: 12</adres>
+<ilce>-</ilce>
+<il>Amasya</il>
+<tel>0358 2129601</tel>
+</content>
+<content>
+<firma>Canan Parfümeri</firma>
+<adres>Kapalı Bedestan çarşısı No:5</adres>
+<ilce>-</ilce>
+<il>Amasya</il>
+<tel>0358 2122731</tel>
+</content>
+<content>
+<firma>Ayhanlar Parfümeri</firma>
+<adres>Şehit Adem Yavuz sok.No:13/A</adres>
+<ilce>M.paşa</ilce>
+<il>Ankara</il>
+<tel>0312 4333035</tel>
+</content>
+<content>
+<firma>Berk Kozm.</firma>
+<adres>Bağcı cad. No:31/C</adres>
+<ilce>Etlik</ilce>
+<il>Ankara</il>
+<tel>0312 3210755</tel>
+</content>
+<content>
+<firma>Burcu Parfümeri</firma>
+<adres>Atatürk mah.Vatan cad.</adres>
+<ilce>Sincan</ilce>
+<il>Ankara</il>
+<tel>0312 2717537</tel>
+</content>
+<content>
+<firma>Pino Onur</firma>
+<adres>Onur çarşısı no:242</adres>
+<ilce>Kızılay</ilce>
+<il>Ankara</il>
+<tel>0312 4170866</tel>
+</content>
+<content>
+<firma>Pino Dikmen</firma>
+<adres>dikmen cad. no:244/22</adres>
+<ilce>Dikmen</ilce>
+<il>Ankara</il>
+<tel>0312 4827527</tel>
+</content>
+<content>
+<firma>Can Pino</firma>
+<adres>Atatürk Bulvarı No:90/15</adres>
+<ilce>Kızılay</ilce>
+<il>Ankara</il>
+<tel>0312 4195075</tel>
+</content>
+<content>
+<firma>Pino Meşrutiyet</firma>
+<adres>Meşrutiyet cad. No:21/A</adres>
+<ilce>Kızılay</ilce>
+<il>Ankara</il>
+<tel>0312 4172400</tel>
+</content>
+<content>
+<firma>Pino Özgür</firma>
+<adres>Atatürk Bulvar Armağan Pas. No:76/6</adres>
+<ilce>Kızılay</ilce>
+<il>Ankara</il>
+<tel>0312 4170660</tel>
+</content>
+<content>
+<firma>Pino K.ören</firma>
+<adres>Nuri Pamir Cad. No: 7/C</adres>
+<ilce>Kızılay</ilce>
+<il>Ankara</il>
+<tel>0312 3805115</tel>
+</content>
+<content>
+<firma>Pino Keklik</firma>
+<adres>Dikmen cad. No:367/A</adres>
+<ilce>Dikmen</ilce>
+<il>Ankara</il>
+<tel>0312 4762035</tel>
+</content>
+<content>
+<firma>Pino Çamlıca</firma>
+<adres>2.cad. 5/18 çiftlik kavşağı</adres>
+<ilce>-</ilce>
+<il>Ankara</il>
+<tel>0312 3975456</tel>
+</content>
+<content>
+<firma>Diva Parfümeri</firma>
+<adres>Yüksel cad.No:3/A</adres>
+<ilce>Kızılay</ilce>
+<il>Ankara</il>
+<tel>0312 4181144</tel>
+</content>
+<content>
+<firma>Dizayn Parfümeri</firma>
+<adres>İzmir cad. Kocabeyoğlu Psj.No:82/23</adres>
+<ilce>Kızılay</ilce>
+<il>Ankara</il>
+<tel>0312 4184280</tel>
+</content>
+<content>
+<firma>Güneş Parfümeri</firma>
+<adres>3.cad No:15 Semt Hali</adres>
+<ilce>Bahçelievler</ilce>
+<il>Ankara</il>
+<tel>0312 2139021</tel>
+</content>
+<content>
+<firma>Kural Parfümeri</firma>
+<adres>İvedik cad. No:450/B</adres>
+<ilce>Demetevler</ilce>
+<il>Ankara</il>
+<tel>0312 3354879</tel>
+</content>
+<content>
+<firma>May Kozm.</firma>
+<adres>İzmir cad. Üst GeçitAltı No:3</adres>
+<ilce>Kızılay</ilce>
+<il>Ankara</il>
+<tel>0312 4252003</tel>
+</content>
+<content>
+<firma>Menekşe Parfümeri</firma>
+<adres>İzmir cad. Kocabeyoğlu Psj.</adres>
+<ilce>Kızılay</ilce>
+<il>Ankara</il>
+<tel>0312 4170113</tel>
+</content>
+<content>
+<firma>Motif Parfümeri</firma>
+<adres>Fuar Çarşısı No:52/54</adres>
+<ilce>Sıhhıye</ilce>
+<il>Ankara</il>
+<tel>0312 2305198</tel>
+</content>
+<content>
+<firma>Münir Parfümeri</firma>
+<adres>İzmir cad.Moda Çarşısı No:7/19</adres>
+<ilce>Kızılay</ilce>
+<il>Ankara</il>
+<tel>0312 4253120</tel>
+</content>
+<content>
+<firma>Natura Market</firma>
+<adres>Sakarya cad.No:18/B</adres>
+<ilce>Kızılay</ilce>
+<il>Ankara</il>
+<tel>0312 4338816</tel>
+</content>
+<content>
+<firma>Nur İtr.</firma>
+<adres>yeni ankara sok. 27/6</adres>
+<ilce>Cebici</ilce>
+<il>Ankara</il>
+<tel>0312 3638876</tel>
+</content>
+<content>
+<firma>Cosmolive 1</firma>
+<adres>Metro Ankaray Ortak İstasyonu</adres>
+<ilce>Kızılay</ilce>
+<il>Ankara</il>
+<tel>0312 4175817</tel>
+</content>
+<content>
+<firma>Cosmolive 2</firma>
+<adres>Metro Ankaray Ortak İstasyonu b60</adres>
+<ilce>Kızılay</ilce>
+<il>Ankara</il>
+<tel>0312 4174754</tel>
+</content>
+<content>
+<firma>Cosmolive 3</firma>
+<adres>atatürk bulvarı no:67/68</adres>
+<ilce>Kızılay</ilce>
+<il>Ankara</il>
+<tel>0312 4320022</tel>
+</content>
+<content>
+<firma>Roz Parfümeri</firma>
+<adres>Karum İş Merkezi No:74</adres>
+<ilce>G.o.p.</ilce>
+<il>Ankara</il>
+<tel>0312 2808454</tel>
+</content>
+<content>
+<firma>Zigana Kozm.</firma>
+<adres>Selanik cad. No:15/13</adres>
+<ilce>Kızılay</ilce>
+<il>Ankara</il>
+<tel>0312 4332275</tel>
+</content>
+<content>
+<firma>YKM Kızılay</firma>
+<adres>G.M.K. Bulvarı No:3</adres>
+<ilce>Kızılay</ilce>
+<il>Ankara</il>
+<tel>0312 4172093</tel>
+</content>
+<content>
+<firma>Pelin Parfümeri</firma>
+<adres>Istasyon Cad.No:19/C</adres>
+<ilce>Çankırı</ilce>
+<il>Ankara</il>
+<tel>0312 2132201</tel>
+</content>
+<content>
+<firma>Halay Parfümeri Ankara Şubesi:</firma>
+<adres>Necati Bey cad. Necati Bey mah. No:23/A</adres>
+<ilce>Sıhhiye</ilce>
+<il>Ankara</il>
+<tel>0312 2292800</tel>
+</content>
+<content>
+<firma>Akbol Ecz.</firma>
+<adres>Camlatik mah. Belediye işhanı No:8</adres>
+<ilce>Ayaş</ilce>
+<il>Ankara</il>
+<tel>0312 7121829</tel>
+</content>
+<content>
+<firma>Turan Ecz.</firma>
+<adres>Cengiz Topel Cad. No:7/7</adres>
+<ilce>Kızılcahamam</ilce>
+<il>Ankara</il>
+<tel>0312 7365651</tel>
+</content>
+<content>
+<firma>Derman Ecz.</firma>
+<adres>Atatürk mah.G.M.K. cad. No:2</adres>
+<ilce>Kazan</ilce>
+<il>Ankara</il>
+<tel>0312 8140660</tel>
+</content>
+<content>
+<firma>Yeşimnaz Ecz.</firma>
+<adres>Dikmen cad. No: 432/15</adres>
+<ilce>Dikmen</ilce>
+<il>Ankara</il>
+<tel>0312 4753099</tel>
+</content>
+<content>
+<firma>Deniz Ecz.</firma>
+<adres>Atatürk mah. Onur sok. 10/A</adres>
+<ilce>Sincan</ilce>
+<il>Ankara</il>
+<tel>0312 2705757</tel>
+</content>
+<content>
+<firma>Heykel Ecz.</firma>
+<adres>Çankırı cad.No: 7/A</adres>
+<ilce>Ulus</ilce>
+<il>Ankara</il>
+<tel>0312 3100368</tel>
+</content>
+<content>
+<firma>Dilekbahar Ecz.</firma>
+<adres>Anavatan cad. No: 5/C</adres>
+<ilce>Keçiören</ilce>
+<il>Ankara</il>
+<tel>0312 3808181</tel>
+</content>
+<content>
+<firma>Evşen Ecz.</firma>
+<adres>İncibağ mah. Tugut Özal bul. No:29</adres>
+<ilce>İncek</ilce>
+<il>Ankara</il>
+<tel>0312 4602217</tel>
+</content>
+<content>
+<firma>Güdül Ecz.</firma>
+<adres>Özbaş sok. No:6</adres>
+<ilce>Güdül</ilce>
+<il>Ankara</il>
+<tel>0312 7281533</tel>
+</content>
+<content>
+<firma>Balerin Parfümeri</firma>
+<adres>Hürriyet cad.Gazipaşa İşhanı</adres>
+<ilce>-</ilce>
+<il>Antakya</il>
+<tel>0326 2135939</tel>
+</content>
+<content>
+<firma>Tan-Hobi Antalya Dokuma Şubesi:</firma>
+<adres>Zafer mah. Mithatpaşa cad.Kurtoğlu sok. No:64/1</adres>
+<ilce>Merkez</ilce>
+<il>Antalya</il>
+<tel>0242 3441016</tel>
+</content>
+<content>
+<firma>Tan-Hobi Antalya Güllük Şubesi:</firma>
+<adres>Anafartalar cad.Kutlay apt. No:60</adres>
+<ilce>Merkez</ilce>
+<il>Antalya</il>
+<tel>0242 2515405</tel>
+</content>
+<content>
+<firma>Tan-Hobi Antalya Işıklar Şubesi:</firma>
+<adres>Haşim İşcan mah. Atatürk cad. No:60</adres>
+<ilce>Işıklar</ilce>
+<il>Antalya</il>
+<tel>0242 2444744</tel>
+</content>
+<content>
+<firma>Tan-Hobi Antalya Selekeler Şubesi:</firma>
+<adres>Selekler çarşısı zemin kat No:35-38</adres>
+<ilce>Merkez</ilce>
+<il>Antalya</il>
+<tel>0242 2470116</tel>
+</content>
+<content>
+<firma>Eylül Ecz.</firma>
+<adres>Türkbeyli mah. Yenicami sok. 12/2</adres>
+<ilce>Mengen</ilce>
+<il>Bolu</il>
+<tel>0374 3563536</tel>
+</content>
+<content>
+<firma>Kağan Parfümeri</firma>
+<adres>Şekerhoca mah. Bademli sok. Beysel apt. No:1/4</adres>
+<ilce>-</ilce>
+<il>Bursa</il>
+<tel>0224 2212126</tel>
+</content>
+<content>
+<firma>Duygu Parfümeri</firma>
+<adres>Balık Pazarı 1 No&apos;lu cadde No:58</adres>
+<ilce>Gemlik</ilce>
+<il>Bursa</il>
+<tel>0224 5131702</tel>
+</content>
+<content>
+<firma>Boyraz Hed..Kolonya Parfüm</firma>
+<adres>Büyük Zafer cad. No:167</adres>
+<ilce>-</ilce>
+<il>Çorum</il>
+<tel>0364 2138045</tel>
+</content>
+<content>
+<firma>Merih Güzellik ve Parfümeri.Salonu</firma>
+<adres>Özel İdare İşhanı</adres>
+<ilce>Sungurlu</ilce>
+<il>Çorum</il>
+<tel>0364 3116464</tel>
+</content>
+<content>
+<firma>Turkuaz Parfümeri:</firma>
+<adres>Saraylar mah.Oğzhan cad. No:15</adres>
+<ilce>-</ilce>
+<il>Denizli</il>
+<tel>0258 2618870</tel>
+</content>
+<content>
+<firma>Carmina Kozm.</firma>
+<adres>Melik Ahmet cad. Eski Japon Psj. Kat:1 No:43</adres>
+<ilce>-</ilce>
+<il>Diyarbakır</il>
+<tel>0412 2239698</tel>
+</content>
+<content>
+<firma>Leydi Ak Kozm.</firma>
+<adres>Galeria İş Merkezi</adres>
+<ilce>-</ilce>
+<il>Diyarbakır</il>
+<tel>0412 2292714</tel>
+</content>
+<content>
+<firma>Seymen İtriyat Malz. Deposu</firma>
+<adres>Cumhuriyet cad. Özel İdare Tic. Sitesi Kat:2</adres>
+<ilce>-</ilce>
+<il>Erzurum</il>
+<tel>0442 2122730</tel>
+</content>
+<content>
+<firma>Akgül Parfümeri</firma>
+<adres>Porsuk Bulvarı No:1</adres>
+<ilce>Battalgazi</ilce>
+<il>Eskişehir</il>
+<tel>0222 2313199</tel>
+</content>
+<content>
+<firma>Odak Parfümeri</firma>
+<adres>Hamamyolu cad. No:46/A</adres>
+<ilce>-</ilce>
+<il>Eskişehir</il>
+<tel>0222 2300101</tel>
+</content>
+<content>
+<firma>Can Kozm.</firma>
+<adres>Çukur mah. İsmail Say sok. No:13/A</adres>
+<ilce>-</ilce>
+<il>Gaziantep</il>
+<tel>0342 2308720</tel>
+</content>
+<content>
+<firma>Çetinkaya</firma>
+<adres>Ali Fuat Cebesoy Bulvarı</adres>
+<ilce>-</ilce>
+<il>Gaziantep</il>
+<tel>0342 3257300</tel>
+</content>
+<content>
+<firma>Erkul Kozm.</firma>
+<adres>Büyük Psj. No:83</adres>
+<ilce>-</ilce>
+<il>Gaziantep</il>
+<tel>0342 2180603</tel>
+</content>
+<content>
+<firma>Erkmen Tekstil Kozm.</firma>
+<adres>Gaziler cad. Bank sok. Onur İş Merkezi No:1</adres>
+<ilce>-</ilce>
+<il>Gaziantep</il>
+<tel>0342 2314885</tel>
+</content>
+<content>
+<firma>Ilgaz Ecz.</firma>
+<adres>N. Özdemiroğlu cad. No:9/C</adres>
+<ilce>Çankırı</ilce>
+<il>Ilgaz</il>
+<tel>0376 4161487</tel>
+</content>
+<content>
+<firma>Özsoy İtriyat</firma>
+<adres>Şehit Pamir cad. No:69/B</adres>
+<ilce>-</ilce>
+<il>İskenderun</il>
+<tel>0326 6137834</tel>
+</content>
+<content>
+<firma>Hobi Parfümeri Kemeraltı Şubesi:</firma>
+<adres>Anafartlar cad. No:131/A</adres>
+<ilce>Kemeraltı</ilce>
+<il>İzmir</il>
+<tel>0232 4898338</tel>
+</content>
+<content>
+<firma>Hobi Parfümeri Karşıyaka Şubesi:</firma>
+<adres>1690 sok. No:24/B Çarşı</adres>
+<ilce>Karşıyaka</ilce>
+<il>İzmir</il>
+<tel>0232 3643668</tel>
+</content>
+<content>
+<firma>Hobi Parfümeri Şirinyer Şubesi:</firma>
+<adres>Menderes cad. No:234/B</adres>
+<ilce>Şirinyer</ilce>
+<il>İzmir</il>
+<tel>0232 4522989</tel>
+</content>
+<content>
+<firma>Hobi Parfümeri Konak Şubesi:</firma>
+<adres>Konak Birinci Beyler 846 sok. No:51/A</adres>
+<ilce>Konak</ilce>
+<il>İzmir</il>
+<tel>0232 4459005</tel>
+</content>
+<content>
+<firma>Halay Parfümeri Bornova Şubesi:</firma>
+<adres>Mustafa Kemal cad. No:135-B</adres>
+<ilce>Bornova</ilce>
+<il>İzmir</il>
+<tel>0232 3435766</tel>
+</content>
+<content>
+<firma>Halay Parfümeri Karşıyaka Şubesi:</firma>
+<adres>1712 sok. No:32</adres>
+<ilce>Karşıyaka</ilce>
+<il>İzmir</il>
+<tel>0232 3810480</tel>
+</content>
+<content>
+<firma>Halay Parfümeri Hatay Şubesi:</firma>
+<adres>İnönü cad. No:329 Nokta</adres>
+<ilce>Hatay</ilce>
+<il>İzmir</il>
+<tel>0232 2435302</tel>
+</content>
+<content>
+<firma>Halay Parfümeri Şirinyer Şubesi:</firma>
+<adres>Menderes cad. No:270</adres>
+<ilce>Şirinyer</ilce>
+<il>İzmir</il>
+<tel>0232 4489662</tel>
+</content>
+<content>
+<firma>Yavuz Parfümeri:</firma>
+<adres>Anafartalar cad. No:107</adres>
+<ilce>Kemeraltı</ilce>
+<il>İzmir</il>
+<tel>0232 4454275</tel>
+</content>
+<content>
+<firma>Jale Kuaför:</firma>
+<adres>Menderes cad. 188-B</adres>
+<ilce>Şirinyer</ilce>
+<il>İzmir</il>
+<tel>0232 4872265</tel>
+</content>
+<content>
+<firma>Moorroom Kuaför:</firma>
+<adres>Menderes cad. No:216-B</adres>
+<ilce>Şirinyer</ilce>
+<il>İzmir</il>
+<tel>0232 4380107</tel>
+</content>
+<content>
+<firma>Depo Kozmetik:</firma>
+<adres>Kazım Karabekir cad. No:19/C</adres>
+<ilce>Bornova</ilce>
+<il>İzmir</il>
+<tel>0232 3742359</tel>
+</content>
+<content>
+<firma>Cumbul Parfümeri</firma>
+<adres>Kıbrıs şehitleri cad. 1443.sokak No:27</adres>
+<ilce>Alsancak</ilce>
+<il>İzmir</il>
+<tel>0232 4636154</tel>
+</content>
+<content>
+<firma>Este Parfümeri</firma>
+<adres>İstanbul cad. Malatyalı Psj. Düzce</adres>
+<ilce>-</ilce>
+<il>İzmit</il>
+<tel>0262 3233204</tel>
+</content>
+<content>
+<firma>YKM Gebze</firma>
+<adres>Hacı Halil mah. Orhangazi cad. No:28 Gebze/Kocaeli</adres>
+<ilce>-</ilce>
+<il>İzmit</il>
+<tel>0262 6415798</tel>
+</content>
+<content>
+<firma>Fatih Parfümeri</firma>
+<adres>Hacı halil mah. Eski çarşı No: 98 Gebze/Kocaeli</adres>
+<ilce>-</ilce>
+<il>İzmit</il>
+<tel>0262 6421532</tel>
+</content>
+<content>
+<firma>Akarsu Parfümeri Deposu</firma>
+<adres>Kurtoğlu İşhanı No:8-9 Adapazarı</adres>
+<ilce>-</ilce>
+<il>İzmit</il>
+<tel>0264 2726013</tel>
+</content>
+<content>
+<firma>Cosmo Store</firma>
+<adres>Fethiye cad.Feridun Özbay sok. No:19/A</adres>
+<ilce>-</ilce>
+<il>İzmit</il>
+<tel>0262 3225555</tel>
+</content>
+<content>
+<firma>Kozmetika Kozm.</firma>
+<adres>Sabri Ekmen sok. No:12</adres>
+<ilce>-</ilce>
+<il>İzmit</il>
+<tel>0262 3231152</tel>
+</content>
+<content>
+<firma>Fulya Parfümeri</firma>
+<adres>İnönü Cad. Anıl Apt. No:1/A Karamürsel</adres>
+<ilce>-</ilce>
+<il>İzmit</il>
+<tel>0262 4523467</tel>
+</content>
+<content>
+<firma>Burcu Kozm.</firma>
+<adres>Trabzon cad. No:26/A</adres>
+<ilce>-</ilce>
+<il>Kahramanmaraş</il>
+<tel>0344 2145850</tel>
+</content>
+<content>
+<firma>İlksan Alışveriş Merkezi</firma>
+<adres>Trabzon cad. No:34/A</adres>
+<ilce>-</ilce>
+<il>Kahramanmaraş</il>
+<tel>0344 2235738</tel>
+</content>
+<content>
+<firma>Erciyes Parfümeri</firma>
+<adres>Kaleönü cad. No:2</adres>
+<ilce>-</ilce>
+<il>Kayseri</il>
+<tel>0352 2224224</tel>
+</content>
+<content>
+<firma>Samancı Parfümeri</firma>
+<adres>Cumhuriyet mah. Mevlevi cad.No:21/A</adres>
+<ilce>-</ilce>
+<il>Kayseri</il>
+<tel>0352 2316737</tel>
+</content>
+<content>
+<firma>Çiçek Ecz.</firma>
+<adres>Cumhuriyet mah. Sultanhamam cad. No:28</adres>
+<ilce>-</ilce>
+<il>Kayseri</il>
+<tel>0352 2326206</tel>
+</content>
+<content>
+<firma>Gül Ecz.</firma>
+<adres>Cumhuriyet cad. Çarşı cami altı No:12</adres>
+<ilce>Develi</ilce>
+<il>Kayseri</il>
+<tel>0352 6218610</tel>
+</content>
+<content>
+<firma>Mert Ecz.</firma>
+<adres>Hastane sok. No:6</adres>
+<ilce>Keskin</ilce>
+<il>Kırıkkale</il>
+<tel>0318 5153560</tel>
+</content>
+<content>
+<firma>Estetik Güzellik</firma>
+<adres>Cum.Cad. No:6</adres>
+<ilce>-</ilce>
+<il>Kırklareli</il>
+<tel>0288 2123357</tel>
+</content>
+<content>
+<firma>Ardıçlar Parfümeri</firma>
+<adres>Gökmedrese Yer Altı Çarşısı No:31</adres>
+<ilce>-</ilce>
+<il>Kırşehir</il>
+<tel>0386 2133975</tel>
+</content>
+<content>
+<firma>Elif Parfümeri</firma>
+<adres>K.Karabekir cad. No:24/D</adres>
+<ilce>-</ilce>
+<il>Konya</il>
+<tel>0332 3521044</tel>
+</content>
+<content>
+<firma>Onur Ecz.</firma>
+<adres>Meram yeniyol cad. No:164</adres>
+<ilce>-</ilce>
+<il>Konya</il>
+<tel>0332 3239598</tel>
+</content>
+<content>
+<firma>Ebru Parfümeri</firma>
+<adres>Cumhuriye cad.Küçük Çarşı Psj.No:25</adres>
+<ilce>-</ilce>
+<il>Kütahya</il>
+<tel>0274 2163586</tel>
+</content>
+<content>
+<firma>Platin</firma>
+<adres>Çakmak cad.56. Sok.No:34</adres>
+<ilce>-</ilce>
+<il>Mersin</il>
+<tel>0324 2380785</tel>
+</content>
+<content>
+<firma>Çetinkaya</firma>
+<adres>Gazi Mustafa Kemal Bulvarı</adres>
+<ilce>-</ilce>
+<il>Mersin</il>
+<tel>0324 2384300</tel>
+</content>
+<content>
+<firma>Bahadır Ecz.</firma>
+<adres>Kızılırmak cad.</adres>
+<ilce>Gülşehir</ilce>
+<il>Nevşehir</il>
+<tel>0384 4112796</tel>
+</content>
+<content>
+<firma>Suat Parfümeri</firma>
+<adres>Yeni Çarşı Karışısı C.Sunay cad. No:167</adres>
+<ilce>-</ilce>
+<il>Osmaniye</il>
+<tel>0328 8137348</tel>
+</content>
+<content>
+<firma>Selyak Nak. Tem. Ltd. Şti.</firma>
+<adres>Atatürk cad. No:289/A</adres>
+<ilce>-</ilce>
+<il>Rize</il>
+<tel>0464 2178093</tel>
+</content>
+<content>
+<firma>Galeri Özlem Parfümeri</firma>
+<adres>Çiftlik mah. İstiklal cad. No:120/A</adres>
+<ilce>-</ilce>
+<il>Samsun</il>
+<tel>0362 2311919</tel>
+</content>
+<content>
+<firma>Yakalı Kozm.</firma>
+<adres>İstiklal cad. No:75</adres>
+<ilce>-</ilce>
+<il>Samsun</il>
+<tel>0362 4357371</tel>
+</content>
+<content>
+<firma>Dejavu Kozm.</firma>
+<adres>Meşaret sok. No:6</adres>
+<ilce>-</ilce>
+<il>Samsun</il>
+<tel>-</tel>
+</content>
+<content>
+<firma>Acs Kozm.1</firma>
+<adres>Fatih sultan mehmet cad. no:1</adres>
+<ilce>-</ilce>
+<il>Samsun</il>
+<tel>0362 4323877</tel>
+</content>
+<content>
+<firma>Acs Kozm.2</firma>
+<adres>Yabancılar pazarı No: 250-252</adres>
+<ilce>-</ilce>
+<il>Samsun</il>
+<tel>0362 4323873</tel>
+</content>
+<content>
+<firma>Samsun Çarşı Büyük Mağazacılık</firma>
+<adres>Kale mah. Sakarya cad. Salihbey sok. No:10</adres>
+<ilce>-</ilce>
+<il>Samsun</il>
+<tel>0362 4354608</tel>
+</content>
+<content>
+<firma>Emre İtriyat Kozm.</firma>
+<adres>Gazipaşa mah. Türkocağı cad. No:2</adres>
+<ilce>Bafra</ilce>
+<il>Samsun</il>
+<tel>0362 5437647</tel>
+</content>
+<content>
+<firma>Sezen 3 Parfümeri</firma>
+<adres>Muhittin Mah.Arslan Sok.no:4-2 Çorlu</adres>
+<ilce>-</ilce>
+<il>Tekirdağ</il>
+<tel>0282 6511569</tel>
+</content>
+<content>
+<firma>Rozet Parfümeri</firma>
+<adres>Hukumet Cad. Bayol Psj. No:106-107/2</adres>
+<ilce>-</ilce>
+<il>Tekirdağ</il>
+<tel>0282 2615125</tel>
+</content>
+<content>
+<firma>İmparator Kozm.</firma>
+<adres>Bayol Pasajı Kat:1 No:68-69</adres>
+<ilce>-</ilce>
+<il>Tekirdağ</il>
+<tel>-</tel>
+</content>
+<content>
+<firma>Tokat Acs</firma>
+<adres>Gaziosmanpaşa Bulvarı No:65</adres>
+<ilce>-</ilce>
+<il>Tokat</il>
+<tel>0356 2127255</tel>
+</content>
+<content>
+<firma>Müge Güz. Ürn. Parfümeri. ve Hiz. Ltd.Şti.</firma>
+<adres>Kunduracılar cad. No:69</adres>
+<ilce>-</ilce>
+<il>Trabzon</il>
+<tel>0462 3212532</tel>
+</content>
+<content>
+<firma>Uygar Parfümeri</firma>
+<adres>Uygar Kozmetik Maraş cad. Ptt Karşısı No:51/3</adres>
+<ilce>-</ilce>
+<il>Trabzon</il>
+<tel>0462 3214409</tel>
+</content>
+<content>
+<firma>Uzunlar Konf. Kozm.</firma>
+<adres>Yıldızlı Beldesi Canım Sitesi No:70</adres>
+<ilce>Akçaabat</ilce>
+<il>Trabzon</il>
+<tel>0462 2481510</tel>
+</content>
+<content>
+<firma>YKM Trabzon</firma>
+<adres>Kunduracılar cad. No:104</adres>
+<ilce>-</ilce>
+<il>Trabzon</il>
+<tel>0462 3232030</tel>
+</content>
+<content>
+<firma>Seray Kozm.</firma>
+<adres>Uzunmehmet cad. No:13/A</adres>
+<ilce>-</ilce>
+<il>Zonguldak</il>
+<tel>0372 2515595</tel>
+</content>
+<content>
+<firma>Karaelmas Ecz.</firma>
+<adres>-</adres>
+<ilce>Devrek</ilce>
+<il>Zonguldak</il>
+<tel>0372 5561336</tel>
+</content>
+<content>
+<firma>Seray Kozm.</firma>
+<adres>Uzunmehmet cad. No:13/A</adres>
+<ilce>-</ilce>
+<il>Zonguldak</il>
+<tel>0372 2515595</tel>
+</content>
+<content>
+<firma>Karaelmas Ecz.</firma>
+<adres>-</adres>
+<ilce>Devrek</ilce>
+<il>Zonguldak</il>
+<tel>0372 5561336</tel>
+</content>
+</menu1>

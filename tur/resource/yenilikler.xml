@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<menu1>
+
+	<content>
+		<resim>resource/img/yenilikler/wash_gel.jpg</resim>
+		<pdf>resource/xml/yenilikler/01.txt</pdf>
+		<baslik>DERMOCARE  TEEN
+SEBUM-KONTROL YÜZ YIKAMA JELİ</baslik>
+	</content>
+		<content>
+		<resim>resource/img/yenilikler/tonic.jpg</resim>
+		<pdf>resource/xml/yenilikler/02.txt</pdf>
+		<baslik>DERMOCARE  TEEN
+SEBUM-KONTROL TONİK</baslik>
+	</content>
+	<content>
+		<resim>resource/img/yenilikler/cream.jpg</resim>
+		<pdf>resource/xml/yenilikler/03.txt</pdf>
+		<baslik>DERMOCARE  TEEN
+SEBUM-KONTROL BAKIM KREMİ</baslik>
+	</content>
+
+</menu1>
